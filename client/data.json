@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "name": "AIR FORCE",
+    "category": "KICKS",
+    "image": "https://cdn.idealo.com/folder/Product/7003/3/7003304/s4_produktbild_gross/nike-air-force-1-07-cj0952100-black-white.jpg",
+    "price": "130"
+  },
+  {
+    "id": "2",
+    "name": "DOLCE GABBANA",
+    "category": "KICKS",
+    "image": "https://cdn-images.farfetch-contents.com/13/51/61/20/13516120_26322487_80.jpg",
+    "price": "260"
+  },
+  {
+    "id": "3",
+    "name": "GUCCI",
+    "category": "WATCH",
+    "image": "https://d1rkccsb0jf1bk.cloudfront.net/products/100024083/main/large/YA1264077_001.jpg",
+    "price": "620"
+  },
+  {
+    "id": "4",
+   "name": "EMPORIO ARMANI",
+     "category": "PARFUME",
+   "image": "https://fimgs.net/mdimg/perfume/375x500.58808.jpg",
+     "price": "90"
+  }
+
+]
